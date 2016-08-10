@@ -22,3 +22,25 @@ Widget can be added from WordPress back-end.
 Add the Chrome App Button with a shortcode.
 Open your blog up to the 120 million+ Google Chrome Users!
 Get the Chrome App Promoter Widget NOW!
+
+
+![screenshot](https://raw.githubusercontent.com/anthonydelgado/WP-promote-chrome-apps/master/img/screenshot-1.png)
+Plug-in is designed to emulate Chrome's info-bar and let your visits install your chrome app without leaving your blog!
+
+![screenshot](https://raw.githubusercontent.com/anthonydelgado/WP-promote-chrome-apps/master/img/screenshot-2.png)
+Users can install your chrome app with one click!
+
+
+![screenshot](https://raw.githubusercontent.com/anthonydelgado/WP-promote-chrome-apps/master/img/screenshot-3.png)
+Also add the Google Webstore Widget to promote your chrome app!
+
+
+![screenshot](https://raw.githubusercontent.com/anthonydelgado/WP-promote-chrome-apps/master/img/screenshot-4.png)
+Adding the Google Webstore Widget is simple! Add it Under Appearance->Widgets.
+
+
+![screenshot](https://raw.githubusercontent.com/anthonydelgado/WP-promote-chrome-apps/master/img/screenshot-5.png)
+
+ If you don't have a Chrome App yet than use the Chrome Web-App Generator!
+
+
